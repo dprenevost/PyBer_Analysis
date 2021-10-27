@@ -14,7 +14,7 @@ To understand what we are looking at, here is a graph that shows at a high level
 
 This next figure shows a detailed account of the revenue broken down with city type, number of rides, averages per Ride and averages per Driver.
 
-![Details](/analysis/detail_numb.PNG)
+![Details](/analysis/detail_numb2.PNG)
 
 From this image you can see the differences in the Total Fares and number of rides between the city types is quite dramatic.
 
