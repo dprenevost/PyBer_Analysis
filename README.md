@@ -1,12 +1,12 @@
-# PyBer_Analysis
+# PyBer Company Analysis
 
 ## Using Python and Pandas to discover key differences in city type for the PyBer company
 
 ## Overview of the analysis-
 
-We compared the different types of cities for the number of rides and the amount of revenue generated to give to the executives at the company.
+We compared the different types of cities for the number of rides and the amount of revenue generated to give to the executives at PyBer.
 
-### Results: differences in ride-sharing data among the different city types-
+## Results-
 
 To understand what we are looking at, here is a graph that shows at a high level where revenue is being generated seperated by city type for the time period from January 1st 2019 to April 29th 2019:
 
@@ -22,12 +22,14 @@ The Rural community by far is the lowest source of revenue.  This could be for a
 
 The Suburban community seems to be the "sweet" spot for the average fare, more than doubling the average fares while having only 38% of the volume of rides of the Urban community.
 
-The Urban community seems to have embraced our services and is the highest revenue genrating region of the 3.  
+The Urban community seems to have embraced our services and is the highest revenue genrating region.
 
-### Summary: Based on the results, here are my recommendations for addressing the disparities  in revenue and number of rides per city type-
+## Summary-
+
+Based on the results, here are my recommendations for addressing the disparities  in revenue and number of rides per city type-
 
 * Survey the Rural communities currently utilizing our services to determine need and      awareness of PyBer depending on the results we may need to increase advertising to target the Rural market
 
 * Since the margins are more favorable, increase driver recruiting and advertising in the Rural and Suburban markets to leverage the longer trips and average fares
 
-* Offer incentives and bonuses to Urban drivers to accept more Rural and Suburban fares and offer a discounted rate for the "5 Star PyBer Executive Car Service" for scheduled rides on a subscription base to utilize the large number of drivers we currently have in this area also to offset the lower average fare.
+* Offer incentives and bonuses to Urban drivers to accept more Rural and Suburban fares and offer a discounted rate for the "5 Star PyBer Executive Car Service" for scheduled rides on a subscription basis to utilize the large number of drivers we currently have in this area also to offset the lower average fare and rides per driver count
