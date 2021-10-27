@@ -32,4 +32,4 @@ Based on the results, here are my recommendations for addressing the disparities
 
 * Since the margins are more favorable, increase driver recruiting and advertising in the Rural and Suburban markets to leverage the longer trips and average fares
 
-* Offer incentives and bonuses to Urban drivers to accept more Rural and Suburban fares and offer a discounted rate for the "5 Star PyBer Executive Car Service" for scheduled rides on a subscription basis to utilize the large number of drivers we currently have in this area also to offset the lower average fare and rides per driver count
+* Offer incentives and bonuses to Urban drivers to accept more Rural and Suburban fares also offer a discounted rate for the "5 Star PyBer Executive Car Service" to Pyber customers for scheduled rides on a subscription basis to utilize the large number of drivers we currently have in this area also to offset the lower average fare and rides per driver count
